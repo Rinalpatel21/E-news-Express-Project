@@ -41,10 +41,21 @@ By answering these questions, the project helps determine whether the new design
 These tools enable robust data exploration and help draw meaningful insights from the simulated dataset.
 
 ## Insights & Key Findings
+•	**User engagement improved**:
+Users spent significantly more time on the new landing page (≈6.2 min vs 4.5 min).
+•	**Conversions increased**:
+The new landing page had a statistically higher conversion rate than the old page.
+•	**Language was not a barrier**:
+Conversion and engagement were consistent across English, Spanish, and French users.
+•	**Design drove behavior**:
+Improved layout and content were the main drivers of better performance.
+ 
+## Business Recommendations 
+•	Roll out the new landing page permanently, as it clearly improves engagement and conversion.
+•	Focus optimization on page design and content, since language did not significantly affect outcomes.
+•	Implement continuous A/B testing for future design or content changes to reduce decision risk.
+•	Scale experiments with larger samples to validate results before major site-wide changes.
 
-- **Landing Page Comparison:** The analysis examines differences in conversion rates and engagement between the two page designs.  
-- **Time on Page Metrics:** Average and distribution of time spent on each landing page are visualized and compared.  
-- **Language Influence:** The relationship between preferred language and conversion is investigated to uncover potential behavioral patterns.  
 
 These insights help assess whether the new design is statistically better than the old one and identify segments that may respond differently.
 
