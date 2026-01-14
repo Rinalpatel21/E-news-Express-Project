@@ -42,7 +42,7 @@ These tools enable robust data exploration and help draw meaningful insights fro
 
 ## Insights & Key Findings
 •	**User engagement improved**:
-Users spent significantly more time on the new landing page (≈6.2 min vs 4.5 min).
+Users spent significantly more time on the new landing page (≈6.2 min vs 4.5 min).<br>
 •	**Conversions increased**:
 The new landing page had a statistically higher conversion rate than the old page.
 •	**Language was not a barrier**:
