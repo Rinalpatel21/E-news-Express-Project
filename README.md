@@ -44,17 +44,17 @@ These tools enable robust data exploration and help draw meaningful insights fro
 •	**User engagement improved**:
 Users spent significantly more time on the new landing page (≈6.2 min vs 4.5 min).<br>
 •	**Conversions increased**:
-The new landing page had a statistically higher conversion rate than the old page.
+The new landing page had a statistically higher conversion rate than the old page.<br>
 •	**Language was not a barrier**:
-Conversion and engagement were consistent across English, Spanish, and French users.
+Conversion and engagement were consistent across English, Spanish, and French users.<br>
 •	**Design drove behavior**:
-Improved layout and content were the main drivers of better performance.
+Improved layout and content were the main drivers of better performance.<br>
  
 ## Business Recommendations 
-•	Roll out the new landing page permanently, as it clearly improves engagement and conversion.
-•	Focus optimization on page design and content, since language did not significantly affect outcomes.
-•	Implement continuous A/B testing for future design or content changes to reduce decision risk.
-•	Scale experiments with larger samples to validate results before major site-wide changes.
+•	Roll out the new landing page permanently, as it clearly improves engagement and conversion.<br>
+•	Focus optimization on page design and content, since language did not significantly affect outcomes.<br>
+•	Implement continuous A/B testing for future design or content changes to reduce decision risk.<br>
+•	Scale experiments with larger samples to validate results before major site-wide changes.<br>
 
 
 These insights help assess whether the new design is statistically better than the old one and identify segments that may respond differently.
